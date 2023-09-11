@@ -1,6 +1,5 @@
 altair
 boto3 
-ceXt
 google
 spread 
 pandas
